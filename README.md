@@ -1,7 +1,7 @@
 # Projeto-faculdade
 PIM IV unip
 
-Cadastro de pessoas com covid.
+Sistema simples para cadastramento de pessoas com covid.
 
 
 #include <stdio.h>
